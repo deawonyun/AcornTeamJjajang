@@ -40,7 +40,7 @@
 4. 실제 데이터와 비교
 
 # 결론
-- 기계학습 방법 : LinearRegression, RandomFrest, SVM
+- 기계학습 방법 : LinearRegression, RandomForest, SVM
 - 사용 오차 : MSE
 - 스코어 확인
 
