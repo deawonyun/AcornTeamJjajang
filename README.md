@@ -29,10 +29,10 @@
 
 # 주제 선정
 - 주차 면수 부족하다 VS 세대당 주차면수 1이상(충분)
-<img src="https://user-images.githubusercontent.com/115984336/215003449-375e4277-0120-420e-9f4d-3d572b4a45c7.png"  width="600" height="350">
+<img src="https://user-images.githubusercontent.com/115984336/215003449-375e4277-0120-420e-9f4d-3d572b4a45c7.png"  width="500" height="300">
 
   - 주차전쟁 뉴스 크롤링
-  <img src="https://user-images.githubusercontent.com/115984336/215003449-375e4277-0120-420e-9f4d-3d572b4a45c7.png"  width="600" height="350">
+  <img src="https://user-images.githubusercontent.com/115984336/215007442-412d94dc-288e-4bf9-b581-0a8436a05400.png"  width="500" height="300">
 
 - 서울시 연도별 주차장 확보율(주택 주차장 부족)
 
@@ -60,7 +60,7 @@
 
 <img src="https://user-images.githubusercontent.com/115984336/215004227-fefcaae3-62b0-4c61-b7c4-a5ab6fbafd21.png"  width="300" height="250"> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/115984336/215004303-454b50a0-93b8-45a4-b180-1e1dadd1ea3f.png"  width="300" height="250">
 
-<주차면수가 부족한 단지와 많은 단지 수> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <단지별전용면적과 등록차량수의 관계>
+<주차면수가 부족한 단지와 많은 단지 수> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<단지별전용면적과 등록차량수의 관계>
 
 <img src="https://user-images.githubusercontent.com/115984336/215004314-15bfde2e-a473-46d1-9b46-91d924f224ee.png"  width="300" height="250"> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/115984336/215004504-fbc574a3-d5b8-4386-b082-1e12106e6557.png"  width="300" height="250">
 
