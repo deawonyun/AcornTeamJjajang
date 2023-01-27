@@ -81,10 +81,12 @@
 <br/>
 4. 딥러닝 진행
 
-<img src="https://user-images.githubusercontent.com/115984336/215004532-ac5b3c49-071e-46c2-a15a-2faa8e42828e.png"  width="350" height="600">  <img src="https://user-images.githubusercontent.com/115984336/215004544-7ae6a6ee-07a3-4cd0-9a68-30be8e6b0204.png"  width="400" height="350"> 
-    
+<img src="https://user-images.githubusercontent.com/115984336/215004532-ac5b3c49-071e-46c2-a15a-2faa8e42828e.png"  width="350" height="600">  <img src="https://user-images.githubusercontent.com/115984336/215004544-7ae6a6ee-07a3-4cd0-9a68-30be8e6b0204.png"  width="300" height="300"> 
+
+<br/>
+<br/>
 5. 실제 데이터와 비교
-<img src="https://user-images.githubusercontent.com/115984336/215004551-6c8764ec-06fd-4c6c-9216-b7f51bfbb144.png"  width="500" height="350">
+<img src="https://user-images.githubusercontent.com/115984336/215004551-6c8764ec-06fd-4c6c-9216-b7f51bfbb144.png"  width="300" height="300">
 
 
 # 결론
